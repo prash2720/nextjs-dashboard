@@ -2,4 +2,7 @@
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 14,
     "window.zoomLevel": 1.4,
+    "editor.tabFocusMode": false,
+    "workbench.editor.showTabs": true,
+    "workbench.editor.scrollToSwitchTabs": false,
 }
